@@ -15,6 +15,3 @@
 
    - Click **New Dashboard** and drag your visualizations onto the dashboard canvas.
    - Adjust the layout for readability and add titles or legends where needed.
-
-4. **Save and Publish**:
-   - Save your work and click **File > Save to Tableau Public**. Provide a title and publish the dashboard to make it accessible online.
