@@ -33,3 +33,5 @@
    - This will label the States/Provinces on the map.
 
 4. Create a Dashboard from the Sheet Pane and drag and drop all the Sheets into the Dashboard in any preferred layout.
+
+![Dashboard](dashboard.png)

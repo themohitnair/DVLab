@@ -29,3 +29,5 @@
    - Now, drag the **Category** Column from the **Data Columns** to the **Label Tab** in the **Mark Pane**. This will label all the different colors according to their categories in the Pie Chart.
 
 4. Create a Dashboard from the Sheet Pane and drag and drop all the Sheets into the Dashboard in any preferred layout.
+
+![Dashboard](dashboard.png)

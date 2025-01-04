@@ -30,3 +30,5 @@
    - If you aren’t seeing a Bar Chart, go to the **Marks Pane** and choose the **Mark Type** as **Bar** instead of **Automatic**.
 
 4. Create a Dashboard from the Sheet Pane and drag and drop all the Sheets into the Dashboard in any preferred layout.
+
+![Dashboard](dashboard.png)
