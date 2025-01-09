@@ -1,3 +1,5 @@
 */*/*.html
 .venv
 */.ipynb_checkpoints
+*/exercises.pdf
+*/DV Lab*.pdf
